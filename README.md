@@ -7,6 +7,7 @@ SCIP 课程学习相关。
 2. [MITOCW 6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)：官方课程网站
 3. [SCIP 中文解题集](https://sicp.readthedocs.io/en/latest/)：非常有帮助，会有详细讲解，但有些内容少了些
 4. [SCIP 英文解题集：更加权威，而且有很多讨论](http://community.schemewiki.org/?SICP-Solutions)
+5. [Scheme 原型操作查询表](https://people.eecs.berkeley.edu/~bh/ssch27/appendix-funlist.html)
 
 #### Reference
 
