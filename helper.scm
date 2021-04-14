@@ -7,3 +7,9 @@
 (define tolerance 0.00001)
 (define (average-damp f)
     (lambda (x) (average x (f x))))
+
+(define (gcd a b)
+    (if (= b 0)
+        a
+        (gcd b
+             (remainder a b))))
